@@ -20,7 +20,7 @@ Serialização: Modelo salvo em Joblib (.pkl) e convertível para ONNX (.onnx) p
 
 🚀 Como Usar
 
-git clone https://github.com/seu-usuario/Hackathon-ONE-Churn-clientes.git
+git clone https://github.com/KellyMuehlmann/Hackathon-ONE---Churn-clientes.git
 cd Hackathon-ONE-Churn-clientes
 pip install -r requirements.txt
 jupyter notebook ChurnInsight_for_Spotify_*.ipynb
